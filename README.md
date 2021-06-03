@@ -8,7 +8,10 @@ npm install
 ```
 
 ## Usage
-Install Expo Go on your phone and run the app
+- Install Expo Go on your phone
+- Run `npm start`
+- Scan QR code that comes up with your phone to use the app
 ```
 npm start
 ```
+![Screenshot of App](./assets/screenshot.png)
